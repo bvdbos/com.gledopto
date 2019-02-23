@@ -167,18 +167,6 @@
 		{
           "id": "color",
           "capabilities": [
-            "light_saturation"
-          ]
-        },
-		{
-          "id": "color",
-          "capabilities": [
-            "light_temperature"
-          ]
-        },
-		{
-          "id": "color",
-          "capabilities": [
             "light_mode"
           ]
         }
@@ -190,8 +178,6 @@
 	  "onoff.1",
       "dim",
       "light_hue",
-      "light_saturation",
-      "light_temperature",
       "light_mode"
     ],
     "capabilitiesOptions": { 
@@ -199,8 +185,6 @@
 	  "onoff.1": {},
       "dim": {},
 	  "light_hue": {},
-	  "light_saturation": {},
-      "light_temperature": {},
 	  "light_mode": {}
     },
     "images": {
